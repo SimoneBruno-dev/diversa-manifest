@@ -33,12 +33,5 @@
     }
   ],
   "categories": ["education", "productivity"],
-  "prefer_related_applications": false,
-  "screenshots": [
-    {
-      "src": "https://app.diversacademy.it/screenshot1.png",
-      "sizes": "1080x1920",
-      "type": "image/png"
-    }
-  ]
+  "prefer_related_applications": false
 }
