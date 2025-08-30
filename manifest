@@ -1,0 +1,44 @@
+{
+  "name": "DiverSA ACADEMY",
+  "short_name": "DiverSA",
+  "description": "Piattaforma formativa DiverSA Academy - corsi, contenuti e strumenti per la tua crescita.",
+  "start_url": "https://app.diversacademy.it/?source=pwa",
+  "scope": "https://app.diversacademy.it/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "lang": "it",
+  "id": "com.diversa.academy",
+  "icons": [
+    {
+      "src": "https://proton-resources-production.imgix.net/71a2b39570148a8680e81e8a5f596948a3324bc2d890091cba2d17319dd82181.png?w=192&h=192&fm=png&bg=fff&fit=crop",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://proton-resources-production.imgix.net/71a2b39570148a8680e81e8a5f596948a3324bc2d890091cba2d17319dd82181.png?w=384&h=384&fm=png&bg=fff&fit=crop",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://proton-resources-production.imgix.net/71a2b39570148a8680e81e8a5f596948a3324bc2d890091cba2d17319dd82181.png?w=512&h=512&fm=png&bg=fff&fit=crop",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://proton-resources-production.imgix.net/71a2b39570148a8680e81e8a5f596948a3324bc2d890091cba2d17319dd82181.png?w=1024&h=1024&fm=png&bg=fff&fit=crop",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "prefer_related_applications": false,
+  "screenshots": [
+    {
+      "src": "https://app.diversacademy.it/screenshot1.png",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    }
+  ]
+}
