@@ -4,7 +4,7 @@
   "description": "Piattaforma formativa DiverSA Academy - corsi, contenuti e strumenti per la tua crescita.",
   "start_url": "https://app.diversacademy.it/?source=pwa",
   "scope": "https://app.diversacademy.it/",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#1976d2",
